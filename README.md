@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF500&center=true&width=435&lines=Hey%2C+my+name+is+Pedro!;You're+welcome!)](https://git.io/typing-svg)
 
 <div>
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=pedrolucasr7&show_icons=true&theme=dark"/> 
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=pedrolucasr7&show_icons=true&theme=dracula"/> 
 </div>
 
 <div style="display: inline_block"><br>
